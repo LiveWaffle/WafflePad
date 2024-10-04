@@ -1,4 +1,4 @@
-23853446275946057
+23853399163144249
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -54690,20 +54690,6 @@ SMD SMT ceramic resonator filter filter hand-soldering
 0
 3
 3
-DecalFoot
-Sachiel
-
-
-0
-0
-0
-DecalFoot
-Unit01
-
-
-0
-0
-0
 Diode_SMD
 D_0201_0603Metric
 Diode SMD 0201 (0603 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://www.vishay.com/docs/20052/crcw0201e3.pdf), generated with kicad-footprint-generator
@@ -64707,13 +64693,6 @@ Yellow 5381 Series LED
 0
 2
 2
-Library
-MOUDLE14P-2.54-21X17.8MM
-
-
-0
-14
-14
 Module
 A20_OLINUXINO_LIME2
 A20 Olinuxino LIME2, 1.2GHz, 512-1024MB RAM, Micro-SD, NAND or eMMC, 1000Mbit Ethernet
@@ -88844,13 +88823,6 @@ Resistor Radial_Power series Radial pin pitch 7.37mm 10W length 16.1mm width 9mm
 2
 2
 Rotary_Encoder
-Bourns-PEC11R-4220F-S0024-0-0-0
-https://octopart.com/pec11r-4220f-s0024-bourns-26648301#CadModels
-
-0
-7
-7
-Rotary_Encoder
 RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm
 Alps rotary encoder, EC12E... with switch, vertical shaft, http://www.alps.com/prod/info/E/HTML/Encoder/Incremental/EC11/EC11E15204A3.html
 rotary encoder
@@ -89005,6 +88977,13 @@ rotary encoder illuminated switch vertical
 9
 8
 Seeed Studio XIAO Series Library
+MX_PCB
+MX keyswitch PCB Mount
+MX Keyboard Keyswitch Switch PCB Cutout
+0
+2
+2
+Seeed Studio XIAO Series Library
 XIAO-ESP32C3-14P-2.54-21X17.8MM
 
 
@@ -89039,6 +89018,13 @@ XIAO-nRF52840-Sense-14P-2.54-21X17.8MM
 0
 22
 22
+Seeed Studio XIAO Series Library
+sach
+
+
+0
+0
+0
 Sensor
 ASAIR_AM2302_P2.54mm_Lead2.75mm_TabDown
 Temperature and humidity module, http://akizukidenshi.com/download/ds/aosong/AM2302.pdf
@@ -96802,3 +96788,17 @@ Varistor VF
 0
 2
 2
+hp
+Sachh
+
+
+0
+0
+0
+hp
+Sachhh
+
+
+0
+0
+0
