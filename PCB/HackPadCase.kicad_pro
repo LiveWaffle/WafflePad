@@ -465,8 +465,13 @@
     "last_paths": {
       "gencad": "",
       "idf": "",
+<<<<<<< HEAD
+      "netlist": "",
+      "plot": "./",
+=======
       "netlist": "./",
       "plot": "",
+>>>>>>> 6edd4e842c37148fbe8720596ed728efeb0ba076
       "pos_files": "",
       "specctra_dsn": "",
       "step": "HackPadCase2.step",
